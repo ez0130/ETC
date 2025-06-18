@@ -1,9 +1,9 @@
 # FDE Screen
-# Package Sorter
+## Package Sorter
 
 This codes implements a Python function for sorting packages into the correct stack based on their volume and mass.
 
-## Objective
+### Objective
 
 Automatically dispatch packages using the following classification:
 
